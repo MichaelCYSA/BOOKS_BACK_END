@@ -1,0 +1,17 @@
+{
+  "name": "task-orange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/app.js",
+  "scripts": {
+    "start": "nodemon app/app.js"
+  },
+  "author": "Michael Kysa <wertygo1997@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  }
+}
